@@ -1,3 +1,6 @@
+/* view the page here
+https://c-y-hsieh.github.io/JSforWaiver/  */
+
 var video = document.getElementById( "player1");
 var speed = 1;
 var volume = document.getElementById("volume");
